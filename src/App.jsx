@@ -1,7 +1,9 @@
+import Devblog from "./Devblog.jsx";
+
 function App() {
   return (
     <>
-      <h1 class="text-3xl font-bold underline">Blog website landing page</h1>
+      <Devblog />
     </>
   );
 }
